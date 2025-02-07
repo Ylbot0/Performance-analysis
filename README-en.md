@@ -35,9 +35,10 @@ In this technological universe full of infinite possibilities, the birth of this
 
 ## 🚀 Contributor Alliance
 - **ylbot**: Project initiator
-
+## 🛡️Community guardian
+- **749**：Like the language genie, it accurately captures the meaning of sentences, skillfully solves the language gap, and makes the international communication of the project unimpeded.
 ## 🌌 Source of Inspiration
-- **Comrade Huangji**: Like a mysterious interstellar lighthouse, he illuminated our way forward. His unique design concepts and implementation methods have given us endless inspiration.
+- **Huangji**: Like a mysterious interstellar lighthouse, he illuminated our way forward. His unique design concepts and implementation methods have given us endless inspiration.
 
 ## 🌟 Thank You for Using
 
