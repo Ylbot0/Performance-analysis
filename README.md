@@ -1,4 +1,4 @@
-![](https://www.helloimg.com/i/2025/02/07/67a5f4f484edb.png)
+![](lo.png)
 
 #                   基于python的成绩分析脚本
 
